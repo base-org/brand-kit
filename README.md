@@ -2,7 +2,7 @@
 
 # Base brand-kit
 
-This repo contains guide and logos for the Base brand.
+This repo contains a guide, fonts and logos for the Base brand.
 
 Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the next billion users onchain. It's built on Optimism’s open-source [OP Stack](https://stack.optimism.io/).
 
@@ -19,7 +19,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://base.mirror.xyz/)
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.base.org/)
 [![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://base.org/discord)
-[![Twitter BuildOnBase](https://img.shields.io/twitter/follow/BuildOnBase?style=social)](https://twitter.com/BuildOnBase)
+[![Twitter Base](https://img.shields.io/twitter/follow/Base?style=social)](https://twitter.com/Base)
 
 <!-- Badge row 3 - detailed status -->
 
@@ -29,6 +29,10 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 ### Guide
 
 Please see [this PDF](guide/guide.pdf) overview.
+
+### Fonts
+
+Located in [/fonts](fonts/).
 
 ### Logos
 
