@@ -6,22 +6,26 @@ This is the Base Editorial Style Guide, which exists to:
 - Keep all contributors on the same page about editorial standards
 - Align all communications from Base tonally
 
+## Why use the style guide?
+
+If you use the style guide, you'll help us tell the Base story in a consistent way. And you'll be more likely to get amplification from the Base core team and other members of the Base ecosystem.
+
 ## About Base
 
-Base is an Ethereum Layer 2 (L2) network offering a secure, low-cost, developer-friendly way for anyone, anywhere, to build onchain.
+Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly way for anyone, anywhere, to build onchain.
 
 ## Critical Style Conventions
 
-- Write ‘Base’, not BASE, Base Chain, or Base Network
-- Use the word ‘onchain’ instead of ‘web3’ or ‘crypto’
+- **Write ‘Base’**, not BASE, Base Chain, or Base Network
+- **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
 - Use technical terms sparingly, and when you do, work to explain them in full
 - When referring to price, use ETH and not USD
 
 ## Writing Guidelines
 
-**Emphasize Base's vision**
+**Emphasize Base's vision and mission**
 
-Base has a grand vision to bring a billion people onchain, and a more compact vision to build a global onchain economy that increases innovation, creativity, and freedom. Highlight how Base aims to make this decentralized future more accessible for everyone, everywhere.
+Base has a grand vision to bring a billion people onchain and a mission to build a global onchain economy that increases innovation, creativity, and freedom. Highlight how Base aims to make this decentralized future more accessible for everyone, everywhere.
 
 **Highlight progress and what’s next**
 
@@ -33,7 +37,7 @@ Avoid excessive abstract language about "web3" or technical language around “b
 
 **Use clear examples to illustrate concepts**
 
-While some technical depth is unavoidable, aim to make abstract web3 concepts accessible through clear examples and analogies. Compare new paradigms to familiar ones to build understanding. Use specifics and walk through sample user flows to demonstrate core value propositions.
+While some technical depth is unavoidable, aim to make abstract onchain concepts accessible through clear examples and analogies. Compare new paradigms to familiar ones to build understanding. Use specifics and walk through sample user flows to demonstrate core value propositions.
 
 **Whenever possible, celebrate builders**
 
@@ -61,7 +65,7 @@ Don't assume reader familiarity with crypto concepts. Use analogies and examples
 **Tone**
 
 - Brief and punchy, with clarity and impact
-- Avoids of overly technical jargon or corporate talk
+- Avoids overly technical jargon or corporate talk
 - Acknowledges challenges directly but remains solutions-oriented
 - Not too casual, but still conversational
 - Provides unique, thought-provoking insights
