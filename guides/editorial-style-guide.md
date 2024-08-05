@@ -47,6 +47,10 @@ Base exists to empower those building a decentralized future, and building can b
 
 Don't assume reader familiarity with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
 
+## Memes and Their Importance
+
+Memes are a powerful tool for creating shared culture and engagement within the Base community. They provide a fun, relatable way to convey ideas and foster a sense of belonging among users and builders. One of the most iconic Base memes is ["All your base are belong to us,"](https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us) which is a meme you can always use. Feel free to find and share new memes in the meme repository
+
 ## Tone and Voice
 
 ”Although tone and voice are often used together, they are not at all the same thing. Voice is the overall **personality** of your brand and can be described in adjectives like helpful, witty, or friendly. \[…] your brand’s voice will not change. However, tone, or tone of voice, is the attitude of your writing for a particular content piece.” - Shelby Crawford
