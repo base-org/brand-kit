@@ -19,7 +19,7 @@ Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly w
 - **Write ‘Base’**, not BASE, Base Chain, $BASE, or Base Network
 - **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
 - **Use technical terms sparingly**, and when you do, work to explain them in full
-- **Use ETH demonination, not USD when referring to prices**, to emphasize the global economy
+- **Use ETH (Ξ) demonination, not USD ($) when referring to prices**, to emphasize the global economy
 
 ## Writing Guidelines
 
@@ -46,6 +46,15 @@ Base exists to empower those building a decentralized future, and building can b
 **Be a bridge**
 
 Don't assume reader familiarity with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
+
+| Concept                 | Bad Example                                  | Good Example                                                                                                                           |
+| ----------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Emphasize vision**    | "Base aims to improve onchain transactions." | "Base's mission is to bring a billion people onchain by creating a global economy that fosters innovation and freedom."                |
+| **Highlight progress**  | "We made some improvements last month."      | "In the past month, Base successfully reduced transaction fees by 20% and onboarded 10 new major projects."                            |
+| **Concrete examples**   | "Base helps with scalability."               | "Base enables faster, cheaper transactions, allowing you to send money to friends instantly or play onchain games without lag."        |
+| **Clear illustrations** | "Onchain is the future."                     | "Using Base, a coffee shop can accept payments instantly without waiting for bank approvals, making transactions smoother and faster." |
+| **Celebrate builders**  | "We support developers."                     | "Meet Jane, a developer who built an onchain art marketplace on Base, enabling artists to sell their work globally with minimal fees." |
+| **Be a bridge**         | "Understand crypto terms to use Base."       | "Just as you use a bank app to transfer money, you can use Base to send crypto to friends quickly and securely."                       |
 
 ## Tone and Voice
 
