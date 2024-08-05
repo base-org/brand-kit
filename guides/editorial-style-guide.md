@@ -91,6 +91,9 @@ Here’s an example of writing that feels appropriate in both tone and voice:
 - **Gender-Neutral Language:** Use gender-neutral pronouns and terms. For example, use "they/them" instead of "he/she" and "folks" instead of "guys."
 - **Cultural Sensitivity:** Avoid stereotypes or cultural assumptions. Be respectful and considerate of all cultures and identities.
 
+##  Templates and Examples
+- This section provides templates and examples to help contributors create consistent and high-quality content for showcasing projects built on Base. By following these templates, you can effectively communicate the value and impact of projects within the Base ecosystem.
+
 - **Tips for Improving Clarity**
 
   - [Sentence Clarity](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_clarity.html) - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. _is_, _are_).
