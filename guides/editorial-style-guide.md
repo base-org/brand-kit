@@ -94,12 +94,6 @@ Here’s an example of writing that feels appropriate in both tone and voice:
 ##  Templates and Examples
 - This section provides templates and examples to help contributors create consistent and high-quality content for showcasing projects built on Base. By following these templates, you can effectively communicate the value and impact of projects within the Base ecosystem.
 
-## Glossary
-- Include a glossary section to define key terms and jargon used throughout the document.
-
-## Useful Links
-- Provide a section with useful links that direct users to additional resources, tools, and documentation.
-
 - **Tips for Improving Clarity**
 
   - [Sentence Clarity](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_clarity.html) - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. _is_, _are_).
