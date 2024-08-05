@@ -132,8 +132,8 @@ Here’s an example of writing that feels appropriate in both tone and voice:
 - **Basics** - Consult the [Purdue OWL](https://owl.purdue.edu/owl/general_writing/grammar/writing_numbers.html) for basic guidelines.
 - **Numerals** - Write out numerals 0 through 9 as words: zero, one, two, three, etc.
   - Exceptions: Write 1-for-1, not one-for-one. When naming something you can use the roman numerals (e.g. Onchain Summer II)
-  - Write numerals 10 and above as Arabic numerals: 10, 59, 100, 9888, etc
-  - Abbreviate 10,000 and above with a K instead of using a comma. For example: write 100,000 as 100K. Abbreviate 1,000,000 and above with an M. Abbreviate 1,000,000,000 and above with a B. 
+  - Write numerals 10 and above as Arabic numerals: 10, 59, 100, 9888, etc.
+  - Abbreviate 10,000 and above with a K instead of using a comma. For example: write 100,000 as 100K. Abbreviate 1,000,000 and above with an M. Abbreviate 1,000,000,000 and above with a B.
 - **Dates** - Write dates (e.g., in blog post titles and images) as “September **2**, 2022” (or in shortened form as "Sep. 2, 2022") rather than “September **2nd**, 2022.”
 - **Time Spans** - Write full-year ranges of time as “2009—2022” with an em-dash and no spaces.
 - **Decades** - Write out the first reference to a decade as “1960s” and abbreviate subsequent instances as “60s” (no apostrophe).
