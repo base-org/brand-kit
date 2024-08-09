@@ -8,7 +8,7 @@ This is the Base Editorial Style Guide, which exists to:
 
 ## Why use the style guide?
 
-If you use the style guide, you'll help us tell the Base story in a consistent way. And you'll be more likely to get amplification from the Base core team and other members of the Base ecosystem.
+If you use the style guide, you'll help us tell the Base story consistently. You'll also be more likely to get amplification from the Base core team and other members of the Base ecosystem.
 
 ## About Base
 
@@ -18,8 +18,8 @@ Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly w
 
 - **Write ‘Base’**, not BASE, Base Chain, $BASE, or Base Network
 - **Use the word ‘onchain’** instead of ‘web3’ or ‘crypto’ — and it's spelled "onchain" or "Onchain" not "on-chain" or "on chain" or "On Chain"
-- **Use technical terms sparingly**, and when you do, work to explain them in full
-- **Use ETH demonination, not USD when referring to prices**, to emphasize the global economy
+- **Use technical terms sparingly**, and when you do, explain them
+- **Use ETH denomination, not USD when referring to prices**, to emphasize the global economy
 
 ## Writing Guidelines
 
@@ -29,7 +29,7 @@ Base has a grand vision to bring a billion people onchain and a mission to build
 
 **Highlight progress and what’s next**
 
-When discussing Base's ongoing developments, celebrate recent milestones and accomplishments. Outline the key priorities and initiatives planned for the current or upcoming period, grounding them in Base's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
+When discussing Base's ongoing developments, celebrate recent milestones and accomplishments. Outline the priorities and initiatives planned for the current or upcoming period, grounding them in Base's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
 
 **Focus on concrete examples over abstract concepts**
 
@@ -45,7 +45,7 @@ Base exists to empower those building a decentralized future, and building can b
 
 **Be a bridge**
 
-Don't assume reader familiarity with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
+Don't assume the reader is familiar with crypto concepts. Use analogies and examples to make clear connections between the tools and platforms people know and the future Base is building
 
 ## Tone and Voice
 
