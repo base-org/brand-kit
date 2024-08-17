@@ -12,7 +12,7 @@ If you use the style guide, you'll help us tell the Base story in a consistent w
 
 ## About Base
 
-Base is an Ethereum Layer 2 (L2) offering a secure, low-cost, builder-friendly way for anyone, anywhere, to build onchain.
+Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain.
 
 ## Critical Style Conventions
 
