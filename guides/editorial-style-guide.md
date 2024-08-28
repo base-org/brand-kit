@@ -103,6 +103,19 @@ The Base core team does its best to amplify builders who positively contribute t
 
 “The goal is to make your paper as simple and clear, as immediately intelligible to the reader as possible. This doesn’t mean that you should ignore subtle and sophisticated complexities in your theory – but the challenge is to **state those complexities simply and clearly**. Avoid making your subject seem more complex than necessary (for example, if something “creates habits”, it’s probably neither necessary nor helpful to say that it “exhibits a habit-formation process”).” \~ [R. Wicks](https://www.academia.edu/75129398/Stylebook_Tips_on_Organization_Writing_and_Formatting)
 
+##  Language and Inclusivity
+- **Gender-Neutral Language:** Use gender-neutral pronouns and terms. For example, use "they/them" instead of "he/she" and "folks" instead of "guys."
+- **Cultural Sensitivity:** Avoid stereotypes or cultural assumptions. Be respectful and considerate of all cultures and identities.
+
+##  Templates and Examples
+- This section provides templates and examples to help contributors create consistent and high-quality content for showcasing projects built on Base. By following these templates, you can effectively communicate the value and impact of projects within the Base ecosystem.
+
+## Glossary
+- Include a glossary section to define key terms and jargon used throughout the document.
+
+## Useful Links
+- Provide a section with useful links that direct users to additional resources, tools, and documentation.
+
 - **Tips for Improving Clarity**
 
   - [Sentence Clarity](https://owl.purdue.edu/owl/general_writing/mechanics/sentence_clarity.html) - Strategies for improving sentence clarity include using transitional words, properly placing subordinate clauses, and choosing action verbs over ‘be’ verbs (e.g. _is_, _are_).
