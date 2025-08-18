@@ -144,7 +144,7 @@ Here’s an example of writing that feels appropriate in both tone and voice:
   - ❌ apples, oranges and bananas (no Oxford comma) - Do not use this style.
     - ✅ apples, oranges\*\*,\*\* and bananas (Oxford comma) - Use this style.
 - **Em Dashes** - Write em dashes as ( — ). Add spaces on both sides. For example:
-  - **Em dash:** “Facilitators accept responsibility to move groups through an agenda, ensure adherence to mutually agreed-upon process mechanics, and — if necessary — suggest alternates or additional discussion.”
+Oxford comma  - **Em dash:** “Facilitators accept responsibility to move groups through an agenda, ensure adherence to mutually agreed-upon process mechanics, and — if necessary — suggest alternates or additional discussion.”
   - Consult [Merriam-Webster](https://www.merriam-webster.com/words-at-play/em-dash-en-dash-how-to-use) for general guidance on em dashes.
 - **Ampersands** - Use ampersands only in business names (e.g., “Tiffany\&Co.”) and common abbreviations such as “B\&B” or “R\&D.” Avoid using ampersands as a substitute for the word “and.”
 - **Parentheticals** - [Where to place that period](https://style.mla.org/the-placement-of-a-comma-or-period-after-a-quotation)? As per [Typos of the NYT](https://twitter.com/nyttypos/status/1599500874354954240): “When a sentence ends with a parenthetical, the sentence's period goes outside the parentheses (unless the entire sentence is parenthetical).”
