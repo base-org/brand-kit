@@ -72,7 +72,7 @@ Assume your audience includes crypto newcomers. Use analogies and examples to ma
 
 ## Tone and Voice
 
-”Although tone and voice are often used together, they are not at all the same thing. Voice is the overall **personality** of your brand and can be described in adjectives like helpful, witty, or friendly. \[…] your brand’s voice will not change. However, tone, or tone of voice, is the attitude of your writing for a particular content piece.” - Shelby Crawford
+”Although tone and voice are often used together, they are not at all the same thing. Voice is the overall **personality** of your brand and can be described in adjectives like helpful, witty, or friendly. \[…] your brand’s voice will not change. However, tone, or tone of voice, is the attitude of your writing for a particular content piece.” - Shelby Crawford.
 
 **Voice**
 
