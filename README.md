@@ -21,7 +21,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 [![Discord](https://img.shields.io/discord/1067165013397213286?label=discord)](https://base.org/discord)
 [![Twitter Base](https://img.shields.io/twitter/follow/Base?style=social)](https://twitter.com/Base)
 
-<!-- Badge row 3 - detailed status -->
+<!-- Badge row 3 - detailed status --> 
 
 [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base-org/brand-kit)](https://github.com/base-org/brand-kit/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/issues)
