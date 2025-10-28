@@ -1,0 +1,70 @@
+[
+  {
+    "name": "FX1 NFT #1",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeifo6m4nw3jhnaysswbetvwrpwer6ni3taynlgqx7vylkjc46vfrle",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Legendary" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #2",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeifvgtxrsl2cp6j5kodbmd35qmdhxojggd4za66supuzop7yd3wvru",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Epic" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #3",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeian4pd5qv7rqmj2vq4cziyohr6xkcrjx4vx7wstflakyd6a2sufs4",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Rare" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #4",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeifnfusfppbjxwdcor25ze77kdfdtcdmo5b6lgngwkvtyb4jufnh3i",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Uncommon" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #5",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeicldfbgfkwyzfwdpu34emiob5nn534amnrnhj5wbdqs436o6aybhq",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Rare" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #6",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeigsbvlxfmpx5ivkihsfvg6ldztjzyfycaffsehlpftpnp3hl3s45e",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Epic" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #7",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeihpnxkt2f5xhrvwzjwrafgcrfvxwclobqkjz4owsde3vxbnjipsca",
+    "attributes": [
+      { "trait_type": "Rarity", "value": "Legendary" },
+      { "trait_type": "Type", "value": "Digital Art" }
+    ]
+  },
+  {
+    "name": "FX1 NFT #8",
+    "description": "On-chain digital collectible for FX1 Digital Hubs",
+    "image": "ipfs://bafybeibipvohzspeg5qlu4veticg3jormimvswisgw7etk6xcggupq7clu",
+    "attributes": [
+      { "trait_type": "Rarity", "value":
