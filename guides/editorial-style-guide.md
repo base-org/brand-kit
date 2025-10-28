@@ -164,3 +164,4 @@ Here’s an example of writing that feels appropriate in both tone and voice:
 - **Software Versioning Prefixes** - Base uses lowercase version number prefixes for software (v1, v1.5, v2.6.4, etc.) rather than uppercase (V1, V1.5, V2.6.4, etc.) While there is no fixed standard, most software versioning at a low level uses Semantic Versioning Specification, aka [semver](https://semver.org/).
 
 This document has been remixed in part from the open-source Editorial Style Guide by [Danica Swanson](https://warpcast.com/danicaswanson) (for [Starbased](https://starbased.notion.site/Starbased-f8659abc78ad4f2095ed01bc88cca519)).
+<!-- Minor formatting adjustment for consistency -->
