@@ -1,4 +1,4 @@
-![Base](logo.webp)
+![Base logo](logo.webp)
 
 # Base brand-kit
 
@@ -8,10 +8,10 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 <!-- Badge row 1 - status -->
 
-[![GitHub contributors](https://img.shields.io/github/contributors/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
-[![GitHub Stars](https://img.shields.io/github/stars/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/stargazers)
-![GitHub repo size](https://img.shields.io/github/repo-size/base-org/brand-kit)
+[![GitHub contributors](https://img.shields.io/github/contributors/base/brand-kit)](https://github.com/base/brand-kit/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/base/brand-kit)](https://github.com/base/brand-kit/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/base/brand-kit.svg)](https://github.com/base/brand-kit/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/base/brand-kit)
 
 <!-- Badge row 2 - links and profiles -->
 
@@ -23,17 +23,17 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 <!-- Badge row 3 - detailed status -->
 
-[![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base-org/brand-kit)](https://github.com/base-org/brand-kit/pulls)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/issues)
+[![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base/brand-kit)](https://github.com/base/brand-kit/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/base/brand-kit.svg)](https://github.com/base/brand-kit/issues)
 
 ### Guides
 
-- [Brand Guide](http://base.org/brand)
+- [Brand Guide](https://base.org/brand)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
 
 ### Fonts
 
-Located in [/fonts](fonts/).
+Typography guidance is covered in the Brand Guide.
 
 ### Logos
 
@@ -46,3 +46,33 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
 | ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
+
+### Directory structure
+
+- `logo/`: Official logos and marks (SVG/WEBP) organized by families and colors
+- `guides/`: Brand and editorial guidance (PDF/Markdown)
+- `fonts/`: Not included here; refer to the Brand Guide for typography guidance
+
+### How to use
+
+- Use provided SVGs for best quality; PNG/WEBP for raster contexts if needed
+- Preserve clear space and aspect ratios as defined in the Brand Guide
+- Use approved colorways (blue/white/black) on appropriate backgrounds
+- For web, prefer the wordmark or lockup in navigation and headers
+
+### Do not
+
+- Do not alter colors outside the approved palette
+- Do not stretch, skew, or add effects (shadows, outlines) to the marks
+- Do not place marks on low-contrast or busy backgrounds
+- Do not modify the wordmark letterforms
+
+Refer to the [Brand Guide](https://base.org/brand) for full specifications.
+
+### Licensing and usage
+
+Base brand assets are provided for use under Base’s brand guidelines. By using these assets you agree to follow the rules in the Brand Guide. If you’re unsure whether your use is permitted, review the guide or contact Base.
+
+### Download
+
+- Download the latest assets via GitHub: https://github.com/base/brand-kit/archive/refs/heads/main.zip
