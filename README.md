@@ -1,5 +1,5 @@
 ![Base](logo.webp)
-
+<!-- Actualizado noviembre 2025 – contribución comunitaria -->
 # Base brand-kit
 
 This repo contains [brand](guides/brand-guide.pdf) and [editorial style](guides/editorial-style-guide.md) guides for Base.
@@ -46,3 +46,12 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
 | ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
+## Cómo contribuir al Brand Kit de Base
+
+- Cualquier mejora es bienvenida: correcciones de texto, nuevos ejemplos de uso, etc.
+- ¡Gracias a toda la comunidad de builders de Base! 🛡️
+- ## Contribución de la comunidad
+Gracias a @Luisma37 por mejorar la docs. ¡Builders uníos! 🚀
+
+## Nota de builder comunitario
+¡Gracias a la comunidad de Base por fomentar contribuciones open-source! - @Luisma37, Nov 2025
