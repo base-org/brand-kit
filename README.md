@@ -35,6 +35,33 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 Located in [/fonts](fonts/).
 
+#### Web Implementation (CSS)
+
+To use Base Sans in your web project, add the following to your CSS (ensure the file paths match your project structure):
+
+```css
+/* Import Base Sans */
+@font-face {
+  font-family: 'Base Sans';
+  src: url('./fonts/BaseSans_Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Base Sans';
+  src: url('./fonts/BaseSans_Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Apply globally */
+body {
+  font-family: 'Base Sans', sans-serif;
+}
+```
 ### Logos
 
 ![LogoType](logo/Logotype/Digital/Base_lockup_2color.svg)
