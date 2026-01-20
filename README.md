@@ -28,7 +28,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ### Guides
 
-- [Brand Guide](http://base.org/brand)
+- [Brand Guide](https://base.org/brand)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
 
 ### Fonts
