@@ -28,7 +28,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ### Guides
 
-- [Brand Guide](http://base.org/brand)
+- [Brand Guide](https://base.org/brand)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
 
 ### Fonts
@@ -46,3 +46,22 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
 | ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
+
+### Light mode and dark mode
+
+Pick the logo color from the background, not from the product theme name alone.
+
+| Background | Prefer | Avoid |
+| --- | --- | --- |
+| Light / white / pale | Blue (`*_blue`) or black (`*_black`) | White marks — they disappear on light surfaces |
+| Dark / black / deep navy | White (`*_white`) or blue (`*_blue`) when contrast stays clear | Black marks — they disappear on dark surfaces |
+| Busy photography / multicolor | Blue square/basemark on a simple solid plate, or white/black with enough clear space | Low-contrast placements over detailed imagery |
+
+Quick defaults for digital UI:
+
+- Light UI chrome: `logo/TheSquare/Digital/Base_square_blue.svg` or `logo/Basemark/Digital/Base_basemark_blue.svg`
+- Dark UI chrome: `logo/TheSquare/Digital/Base_square_white.svg` or `logo/Basemark/Digital/Base_basemark_white.svg`
+- Full lockup on light: `logo/Logotype/Digital/Base_lockup_2color.svg`
+- Full lockup on dark: `logo/Logotype/Digital/Base_lockup_white.svg`
+
+Prefer SVG for product UI. Use the matching PNG in the same folder when a raster asset is required. Keep enough clear space around the mark so light/dark swaps do not crowd nearby controls.
